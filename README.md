@@ -94,24 +94,19 @@
     *   Constructor chaining
         
 10.  **Polymorphism**
-    
-    *   Method overriding vs overloading
-        
-    *   Abstract classes & methods
-        
-    *   Interfaces
-        
+
+     * Method overriding vs overloading
+     * Abstract classes & methods
+     * Interfaces   
+
 11.  **Static & Partial Classes**
-    
-    *   Static members
-        
-    *   Partial classes & methods
+     * Static members
+     * Partial classes & methods
         
 12.  **Records and Structs (C# 9+)**
     
-    *   Differences between class, struct, and record
-        
-    *   Immutable types and `with` expressions
+     * Differences between class, struct, and record
+     * Immutable types and `with` expressions
         
 
 * * *
@@ -120,62 +115,48 @@
 
 13.  **Generics**
     
-    *   Generic classes and methods
-        
-    *   Constraints (`where T : class`, etc.)
+     * Generic classes and methods
+     * Constraints (`where T : class`, etc.)
         
 14.  **Collections & LINQ**
     
-    *   `List<T>`, `Dictionary<TKey, TValue>`, `Queue`, `Stack`
-        
-    *   LINQ queries (`Select`, `Where`, `GroupBy`, `Join`)
-        
-    *   Anonymous types and lambda expressions
+     *   `List<T>`, `Dictionary<TKey, TValue>`, `Queue`, `Stack`
+     *   LINQ queries (`Select`, `Where`, `GroupBy`, `Join`)
+     *   Anonymous types and lambda expressions
         
 15.  **Delegates & Events**
     
-    *   What is a delegate
-        
-    *   Action, Func, Predicate
-        
-    *   Events and event handlers
+     *   What is a delegate
+     *   Action, Func, Predicate
+     *   Events and event handlers
         
 16.  **Exception Handling**
     
-    *   `try`, `catch`, `finally`, `throw`
-        
-    *   Custom exceptions
-        
-    *   Exception filters (`when`)
+     *   `try`, `catch`, `finally`, `throw`
+     *   Custom exceptions
+     *   Exception filters (`when`)
         
 17.  **File I/O**
     
-    *   Read/write text and binary files
-        
-    *   Async file operations
-        
-    *   `System.IO` namespace
+     *   Read/write text and binary files  
+     *   Async file operations
+     *   `System.IO` namespace
         
 18.  **Asynchronous Programming (async/await)**
     
-    *   Tasks, `Task<T>`, `ValueTask`
-        
-    *   Cancellation tokens
-        
-    *   Exception handling in async code
+     *   Tasks, `Task<T>`, `ValueTask`
+     *   Cancellation tokens
+     *   Exception handling in async code
         
 19.  **Attributes and Reflection**
     
-    *   Using and creating custom attributes
-        
-    *   Reading metadata at runtime
+     *   Using and creating custom attributes
+     *   Reading metadata at runtime
         
 20.  **Memory & Performance**
     
-    *   `Span<T>`, `Memory<T>`, `readonly struct`
-        
-    *   Garbage collection basics
-        
+     *   `Span<T>`, `Memory<T>`, `readonly struct`
+     *   Garbage collection basics   
 
 * * *
 
@@ -183,21 +164,18 @@
 
 21.  **.NET CLI and Project Management**
     
-    *   `dotnet new`, `dotnet add`, `dotnet restore`, `dotnet publish`
-        
-    *   Managing multiple target frameworks
+     *   `dotnet new`, `dotnet add`, `dotnet restore`, `dotnet publish`
+     *   Managing multiple target frameworks
         
 22.  **Dependency Injection (DI)**
     
-    *   Service lifetimes: Singleton, Scoped, Transient
-        
-    *   Registering and injecting services
+     *   Service lifetimes: Singleton, Scoped, Transient
+     *   Registering and injecting services
         
 23.  **Configuration & Logging**
     
-    *   `appsettings.json`
-        
-    *   Using `ILogger` and `ILoggerFactory`
+     *   `appsettings.json`   
+     *   Using `ILogger` and `ILoggerFactory`
         
 
 * * *
@@ -206,54 +184,40 @@
 
 24.  **Console Applications**
     
-    *   Interactive menus
-        
-    *   CLI arguments
+     *   Interactive menus
+     *   CLI arguments
         
 25.  **WinForms / WPF Apps**
     
-    *   UI design basics
-        
-    *   Event-driven programming
+     *   UI design basics 
+     *   Event-driven programming
         
 26.  **ASP.NET Core Web Apps**
     
-    *   MVC pattern overview
-        
-    *   Controllers, Views, and Razor Pages
-        
-    *   Middleware and routing
-        
-    *   Dependency injection in web apps
+     *   MVC pattern overview
+     *   Controllers, Views, and Razor Pages
+     *   Middleware and routing 
+     *   Dependency injection in web apps
         
 27.  **Web API Development**
     
-    *   Creating REST APIs with ASP.NET Core
-        
-    *   Routing and model binding
-        
-    *   JWT authentication and authorization
-        
-    *   Swagger / OpenAPI documentation
+     *   Creating REST APIs with ASP.NET Core
+     *   Routing and model binding
+     *   JWT authentication and authorization
+     *   Swagger / OpenAPI documentation
         
 28.  **Entity Framework Core 10**
     
-    *   DbContext, DbSet
-        
-    *   LINQ to Entities
-        
-    *   Migrations and seeding
-        
-    *   Async database operations
+     *   DbContext, DbSet
+     *   LINQ to Entities
+     *   Migrations and seeding
+     *   Async database operations
         
 29.  **Blazor (WebAssembly & Server)**
     
-    *   Components and routing
-        
-    *   Event binding and state management
-        
-    *   API integration
-        
+     *   Components and routing
+     *   Event binding and state management
+     *   API integration
 
 * * *
 
@@ -261,23 +225,23 @@
 
 30.  **Microservices with .NET**
     
-    *   gRPC and REST
+     *   gRPC and REST
         
-    *   Dockerizing .NET apps
+     *   Dockerizing .NET apps
         
-    *   Communication via RabbitMQ or Kafka
+     *   Communication via RabbitMQ or Kafka
         
 31.  **Testing**
     
-    *   Unit testing with xUnit or NUnit
+     *   Unit testing with xUnit or NUnit
         
-    *   Mocking dependencies
+     *   Mocking dependencies
         
 32.  **Deployment**
     
-    *   Publish to IIS / Azure / Docker
+     *   Publish to IIS / Azure / Docker
         
-    *   CI/CD with GitHub Actions
+     *   CI/CD with GitHub Actions
         
 
 * * *
@@ -286,23 +250,23 @@
 
 33.  **Mini Projects Ideas**
     
-    *   To-Do Console App
+     *   To-Do Console App
         
-    *   Student Management System
+     *   Student Management System
         
-    *   Weather Web API
+     *   Weather Web API
         
-    *   Blog Website (ASP.NET MVC + EF Core)
+     *   Blog Website (ASP.NET MVC + EF Core)
         
-    *   Real-time Chat App (SignalR + WebSocket)
+     *   Real-time Chat App (SignalR + WebSocket)
         
-    *   IoT Sensor Dashboard (API + Database + React Frontend)
+     *   IoT Sensor Dashboard (API + Database + React Frontend)
         
 34.  **Capstone Project**
     
-    *   Full-stack app (C# + React + SQL)
+     *   Full-stack app (C# + React + SQL)
         
-    *   Authentication, CRUD, Charts, REST APIs
+     *   Authentication, CRUD, Charts, REST APIs
         
 
 * * *
@@ -312,17 +276,17 @@
 35.  **What’s new in C# 10**
     
 
-*   Global using directives
+ *   Global using directives
     
-*   File-scoped namespaces
+ *   File-scoped namespaces
     
-*   Record structs
+ *   Record structs
     
-*   Extended property patterns
+ *   Extended property patterns
     
-*   Constant interpolated strings
+ *   Constant interpolated strings
     
-*   Lambda expression improvements
+ *   Lambda expression improvements
     
 
 * * *
