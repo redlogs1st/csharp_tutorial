@@ -1,9 +1,3 @@
-## ChatGPT Replied:
-
-Here’s a **complete and modern tutorial roadmap for learning C# (.NET 10)** — designed for both beginners and intermediate developers who want to master modern C# and .NET 10 development step-by-step.
-
-* * *
-
 🧭 **C# .NET 10 Programming Roadmap (2025 Edition)**
 ----------------------------------------------------
 
@@ -333,8 +327,4 @@ Here’s a **complete and modern tutorial roadmap for learning C# (.NET 10)** �
 
 * * *
 
-Would you like me to **turn this roadmap into a structured PDF course plan (with checkboxes, sections, and exercises)** for you to track your progress while learning?  
-I can make it bilingual (🇬🇧 English + 🇻🇳 Vietnamese) if you’d like.
-
----
 
