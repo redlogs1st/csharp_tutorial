@@ -1,5 +1,6 @@
 🧭 **C# .NET 10 Programming Roadmap (2025 Edition)**
 ----------------------------------------------------
+<img src="./images/cross-platform.svg" alt=".NET 10 Logo" width="500"/>
 
 ### 🩵 **Section 1: Getting Started**
 
